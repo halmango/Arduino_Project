@@ -1,0 +1,11 @@
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\bin\Debug\useSerial.exe.config
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\bin\Debug\useSerial.exe
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\bin\Debug\useSerial.pdb
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.csproj.AssemblyReference.cache
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.Form1.resources
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.Properties.Resources.resources
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.csproj.GenerateResource.cache
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.csproj.CoreCompileInputs.cache
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.exe
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.pdb
+C:\Users\Sejin\ArduinoCsharpProject\arduinoCsharp\useSerial\obj\Debug\useSerial.csproj.SuggestedBindingRedirects.cache
